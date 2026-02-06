@@ -4,7 +4,7 @@ A simple RESTful API built with Go, PostgreSQL, and standard libraries. This pro
 
 ## Live Demo
 
-
+https://go-simple-crud-3-production.up.railway.app/
 
 ## Tech Stack
 
